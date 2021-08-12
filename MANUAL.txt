@@ -1,3 +1,6 @@
 Siga as instruções de desenvolvimento.
 
 - Configurar o MySQL;
+
+
+estou saindo...

@@ -2,7 +2,7 @@ Siga as instruções de desenvolvimento.
 
 - Configurar o MySQL;
 
-
+Thomas!
 estou saindo...
 
 Opa! Felipe aqui :)

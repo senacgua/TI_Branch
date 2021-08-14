@@ -33,6 +33,10 @@ sextou - marcio
 TESTE HOJE !
 =======
 
+<<<<<<< HEAD
+Agora eu sei que linha é esta
+=======
 
 
 sextouuuuu - marcio
+>>>>>>> a5068add8e222b566be55e9607fdcf758895b7f0

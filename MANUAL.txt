@@ -21,14 +21,12 @@ Linha 20 por enquanto é minha
 
 TESTE GIOVANI
 
-
-<<<<<<< HEAD
 Agora eu sei que linha é esta
 =======
 
 
 sextouuuuu - marcio
->>>>>>> a5068add8e222b566be55e9607fdcf758895b7f0
 
 
 Ultimo teste da sexta feira
+Ultimo teste da sexta feira/2
